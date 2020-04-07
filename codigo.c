@@ -4,7 +4,7 @@
 
 int main(){
     int a = 5;
-    printf ("hola gato");
+    printf ("hola hijita hermooooosa");
 
     return 0;
 }
